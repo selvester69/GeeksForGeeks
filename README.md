@@ -1,3 +1,3 @@
 # GeeksForGeeks
 
-feature array rotation branch contains code from array 
+feature array rotation branch contains code from array rotation section

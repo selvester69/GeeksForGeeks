@@ -1,6 +1,4 @@
 # GeeksForGeeks
 
-feature array rotation branch contains code from array rotation sections.
-and many more to come 
-
-push without password
+feature/arrayRotation contains programs related to array rotations.from geeksforgeeks 
+url is: https://www.geeksforgeeks.org/tag/rotation/
